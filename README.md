@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-   🎓 Conhecimentos: <strong>HTML, CSS, JavaScript, Bootstrap5, Git e GitHub, DataBase, Edição de Imagens, Edição de Vídeos e entre outros.</strong>
+   🎓 Conhecimentos: <strong>HTML, CSS, JavaScript, Bootstrap5, Git e GitHub, Edição de Imagens, Edição de Vídeos e entre outros.</strong>
 </p>
 
 <p align="left">
