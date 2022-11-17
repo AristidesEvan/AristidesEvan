@@ -23,10 +23,10 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
 </p>
 
-<hr/>
+<hr width="100%"/>
 
 <div align="center">
   <a href="https://github.com/AristidesEvan">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=AristidesEvan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AristidesEvan&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="left" height="180em" width="47%" src="https://github-readme-stats.vercel.app/api?username=AristidesEvan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AristidesEvan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
